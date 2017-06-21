@@ -1,0 +1,23 @@
+{
+  "name": "cean-app-angular-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nagendrapalla/CEAN-with-angular-2.git"
+  },
+  "author": "Nagendra Palla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nagendrapalla/CEAN-with-angular-2/issues"
+  },
+  "homepage": "https://github.com/nagendrapalla/CEAN-with-angular-2#readme",
+  "dependencies": {
+    "cassandra-driver": "^3.2.2",
+    "express": "^4.15.3"
+  }
+}
